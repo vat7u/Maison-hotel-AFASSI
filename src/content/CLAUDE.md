@@ -19,7 +19,7 @@ types.
     entry for `lang` flattened onto it. `text` is a `Record<Locale, RoomText>`, so every
     language has an entry for every room, and there is no fallback. The `rooms` array itself
     is not exported.
-  - `type Room` — `id`, `featured`, `beds`, `images` (the photo addresses, cover first), plus
+  - `type Room` — `id`, `count`, `maxGuests` (most guests per room; `BookingSection` offers 1 up to the sum over the chosen rooms, so keep it equal to the top of `details`), `featured`, `beds`, `images` (the photo addresses, cover first), plus
     the per-language `name` (the short type, also used in the booking confirmation), `label`
     (the full phrase in the room picker's list and in the photo descriptions), `kind` (word above
     the name), `details` and the optional `desc`, `badge`.

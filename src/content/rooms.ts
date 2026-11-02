@@ -5,6 +5,8 @@
     id        short key, lowercase, never shown
     count     how many rooms of this type the house has (13 in all); the booking form lets a
               guest ask for up to this many
+    maxGuests most guests one room of this type takes (the top of its "details" range); the
+              booking form offers 1 up to the total over the rooms chosen
     featured  true for the rooms shown first; the others appear after "show more".
               Keep the featured rooms at the top of the list.
     beds      how many double beds, single beds and sofas the room has; each shows
@@ -36,6 +38,7 @@ type RoomText = { name: string; label: string; kind: string; details: string; de
 type RoomEntry = {
   id: string;
   count: number;
+  maxGuests: number;
   featured: boolean;
   beds: RoomBeds;
   images: string[];
@@ -51,6 +54,7 @@ const roomPhotos = (id: string, count: number) =>
 const rooms: RoomEntry[] = [
   {
     id: 'deluxe-double',
+    maxGuests: 2,
     count: 4,
     featured: true,
     beds: { double: 1, sofa: 2 },
@@ -88,6 +92,7 @@ const rooms: RoomEntry[] = [
   },
   {
     id: 'family',
+    maxGuests: 6,
     count: 1,
     featured: true,
     beds: { double: 2, single: 2, sofa: 2 },
@@ -125,6 +130,7 @@ const rooms: RoomEntry[] = [
   },
   {
     id: 'standard',
+    maxGuests: 3,
     count: 2,
     featured: true,
     beds: { double: 1, single: 1 },
@@ -158,6 +164,7 @@ const rooms: RoomEntry[] = [
   },
   {
     id: 'quadruple',
+    maxGuests: 4,
     count: 1,
     featured: false,
     beds: { double: 1, single: 2 },
@@ -191,6 +198,7 @@ const rooms: RoomEntry[] = [
   },
   {
     id: 'triple',
+    maxGuests: 4,
     count: 2,
     featured: false,
     beds: { double: 2 },
@@ -228,6 +236,7 @@ const rooms: RoomEntry[] = [
   },
   {
     id: 'twin',
+    maxGuests: 2,
     count: 1,
     featured: false,
     beds: { single: 2 },
@@ -261,6 +270,7 @@ const rooms: RoomEntry[] = [
   },
   {
     id: 'standard-double',
+    maxGuests: 2,
     count: 2,
     featured: false,
     beds: { double: 1 },

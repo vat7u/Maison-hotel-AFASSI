@@ -17,8 +17,6 @@ import { RoomPicker, chosenNames } from './RoomPicker';
 
 type Props = { lang: Locale; rooms: Room[]; t: Messages['booking']; roomText: Messages['rooms'] };
 
-const GUESTS = ['1', '2', '3', '4', '5', '6'];
-
 // Booking request form. There is no backend yet: submitting only shows the confirmation
 // dialog and resets the form. It must send real requests before the site goes public.
 export function BookingSection({ lang, rooms, t, roomText }: Props) {
@@ -27,8 +25,11 @@ export function BookingSection({ lang, rooms, t, roomText }: Props) {
   const [arrival, setArrival] = useState<Date>();
   const [departure, setDeparture] = useState<Date>();
   const [showErrors, setShowErrors] = useState(false);
-  const [resets, setResets] = useState(0); // remounts the guests select, which keeps its own value
+  const [guests, setGuests] = useState(2);
   const [requested, setRequested] = useState({ names: [rooms[0].name], total: 1 });
+  // The guest list ends at what the chosen rooms hold; a larger earlier choice is cut down to it.
+  const maxGuests = chosen.reduce((sum, item) => sum + item.count * (rooms.find(r => r.id === item.id)?.maxGuests ?? 0), 0);
+  const shownGuests = Math.min(guests, maxGuests);
   const room = rooms.find(r => r.id === chosen.at(-1)?.id) ?? rooms[0];
   // The sentence holds {rooms} once, and the room list goes there in bold. The plural sentence
   // is for more than one room, even of a single type ("2 × Double Deluxe").
@@ -51,7 +52,7 @@ export function BookingSection({ lang, rooms, t, roomText }: Props) {
     setArrival(undefined);
     setDeparture(undefined);
     setShowErrors(false);
-    setResets(count => count + 1);
+    setGuests(2);
     resetRooms();
   }
 
@@ -105,13 +106,13 @@ export function BookingSection({ lang, rooms, t, roomText }: Props) {
               </Field>
               <Field>
                 <FieldLabel htmlFor="booking-guests">{t.guests}</FieldLabel>
-                <Select name="guests" defaultValue="2" key={resets}>
+                <Select name="guests" value={String(shownGuests)} onValueChange={value => setGuests(Number(value))}>
                   <SelectTrigger id="booking-guests">
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent position="popper">
                     <SelectGroup>
-                      {GUESTS.map(count => <SelectItem value={count} key={count}>{count}</SelectItem>)}
+                      {Array.from({ length: maxGuests }, (_, i) => String(i + 1)).map(count => <SelectItem value={count} key={count}>{count}</SelectItem>)}
                     </SelectGroup>
                   </SelectContent>
                 </Select>

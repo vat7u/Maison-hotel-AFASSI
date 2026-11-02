@@ -117,6 +117,7 @@ The shadcn components are in [`ui`](./ui/CLAUDE.md).
 - **Booking:** `useBooking` throws outside `BookingProvider`, so `RoomBookLink`,
   `RoomGrid`, `RoomPicker` and `BookingSection` must stay inside it. The provider is in
   `src/app/[lang]/page.tsx`, so these work only on the home page.
+- **Guests list:** `BookingSection` offers 1 up to the sum of `count × maxGuests` over the chosen rooms, and cuts a larger earlier choice down to that sum.
 - **Chosen rooms:** `BookingSection` needs at least one room. `initialRoom` is `rooms[0]` (one
   room), and the choice resets to it after submitting. `setCount` never removes the last type, and
   `RoomPicker` disables − when only one room is chosen in all, so the summary card always has one
