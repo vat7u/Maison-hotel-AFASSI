@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "homeTitle": "Gästehaus in Chefchaouen mit Motorradgarage — Gästehaus Afassi",
+    "homeDescription": "Gästehaus in Chefchaouen mit geschlossener, kostenloser Motorradgarage nur für Gäste und 13 Zimmern, die Sie direkt buchen können.",
+    "aboutTitle": "Über uns — Gästehaus Afassi",
+    "aboutDescription": "Gästehaus Afassi in Chefchaouen: 10 Gehminuten von der historischen Medina entfernt, mit einem Team, das Sie vor Ort oder per Nachricht berät.",
+    "journalTitle": "Das Journal — Gästehaus Afassi",
+    "journalDescription": "Das Journal vom Gästehaus Afassi: Reisetipps, Küche, Spaziergänge und Motorradrouten rund um Chefchaouen.",
+    "articleTitleSuffix": "Gästehaus Afassi",
+    "siteName": "Gästehaus Afassi"
+  },
+  "nav": {
+    "label": "Hauptnavigation",
+    "home": "Startseite",
+    "about": "Über uns",
+    "rooms": "Zimmer",
+    "reviews": "Bewertungen",
+    "journal": "Journal",
+    "book": "Buchen",
+    "contact": "Kontakt",
+    "languageLabel": "Sprache",
+    "logoAlt": "Gästehaus Afassi",
+    "instagramLabel": "Instagram (neues Fenster)",
+    "tripadvisorLabel": "Tripadvisor (neues Fenster)",
+    "backToTop": "Zurück nach oben"
+  },
+  "announcement": {
+    "text": "Direkt buchen zum besten Preis · geschlossene, kostenlose Motorradgarage",
+    "close": "Schließen"
+  },
+  "hero": {
+    "eyebrow": "Chefchaouen · Marokko",
+    "caps": "Die Kunst des Gastgebens",
+    "script": "beginnt hier",
+    "cta": "Buchen",
+    "dotsLabel": "Ein Foto auswählen",
+    "dotLabel": "Foto {n}",
+    "slides": [
+      "Ein Motorradfahrer mit seinem Motorrad vor einer blauen Mauer in Chefchaouen",
+      "Der Eingang vom Gästehaus Afassi, am Abend beleuchtet",
+      "Die Empfangslounge mit blauen Wänden und geschnitzter Decke",
+      "Chefchaouen bei Nacht, am Fuß des Rif-Gebirges",
+      "Die blauen Häuser von Chefchaouen am Berghang"
+    ]
+  },
+  "story": {
+    "eyebrow": "Gästehaus Afassi",
+    "title": "Ihr Aufenthalt im Herzen von Chefchaouen",
+    "body": "Entdecken Sie Chefchaouen von einem einladenden und gut gelegenen Ort aus. Genießen Sie unsere 13 Zimmer, marokkanische Gastfreundschaft und eine ideale Lage, um die blaue Stadt und das Rif-Gebirge zu erkunden.",
+    "access": "Nur 5 Gehminuten vom Busbahnhof entfernt und mit Auto und Van leicht zu erreichen.",
+    "cta": "Mehr erfahren",
+    "photo1Alt": "Die blaue Terrasse unter bewölktem Himmel",
+    "photo2Alt": "Die blaue Tür des Gästehauses auf der Terrasse"
+  },
+  "about": {
+    "eyebrow": "Chefchaouen · Marokko",
+    "caps": "Über",
+    "script": "uns",
+    "note": "Symbolfotos",
+    "sections": [
+      {
+        "title": "Ihr Zuhause im Herzen von Chefchaouen",
+        "paragraphs": [
+          "Das 2022 eröffnete Gästehaus AFASSI empfängt Reisende in herzlicher und freundlicher Atmosphäre und bietet ihnen einen komfortablen Aufenthalt im Herzen von Chefchaouen, der berühmten blauen Stadt Marokkos.",
+          "Unser Gästehaus ist in die zweite Kategorie eingestuft und verfügt über 13 Zimmer, die unseren Besuchern Komfort und Ruhe bieten sollen.",
+          "Dank seiner idealen Lage im Stadtzentrum liegt das Gästehaus AFASSI nur 5 Gehminuten vom Busbahnhof und etwa 10 Minuten von der alten Medina entfernt. Es ist außerdem mit Auto und Van leicht zu erreichen, sodass die Anreise mit jedem Verkehrsmittel einfach ist."
+        ]
+      },
+      {
+        "title": "Gastfreundschaft, Komfort und persönlicher Service",
+        "paragraphs": [
+          "Im Gästehaus AFASSI sind wir überzeugt, dass Gastfreundschaft mehr ist, als ein bequemes Zimmer anzubieten. Sie beruht vor allem auf dem Empfang, der Aufmerksamkeit für jeden Besucher und der Freude, die Großzügigkeit der marokkanischen Gastfreundschaft zu zeigen.",
+          "Unser Team setzt alles daran, Ihnen einen Service von hoher Qualität zu bieten, mit Concierge-Service und persönlicher Betreuung während Ihres gesamten Aufenthalts.",
+          "Ob Sie Tipps zu Sehenswürdigkeiten suchen, Ihre Aktivitäten organisieren oder die Besonderheiten der Region kennenlernen möchten: Unser Team steht Ihnen gern zur Seite, damit Ihr Aufenthalt so angenehm wie möglich wird.",
+          "Für Reisende, die Marokko mit dem Motorrad entdecken, stellen wir außerdem eine geschlossene, kostenlose Garage für Motorräder zur Verfügung, damit sie ihren Aufenthalt ganz unbesorgt genießen können."
+        ]
+      },
+      {
+        "title": "Entdecken Sie Chefchaouen und die Umgebung",
+        "paragraphs": [
+          "Chefchaouen ist mehr als seine berühmten blauen Gassen. Umgeben vom wunderschönen Rif-Gebirge bietet die Region eine große Vielfalt an Erlebnissen, von kulturellen Entdeckungen und lokalen Traditionen bis zu Naturlandschaften und Abenteuern im Freien.",
+          "Im Gästehaus AFASSI möchten wir Ihnen das Beste unseres Reiseziels zeigen. Deshalb organisieren wir Ausflüge und Besichtigungen, sowohl im Herzen der Stadt als auch in der Umgebung.",
+          "Ob Sie durch die Gassen der alten Medina schlendern, die Naturlandschaften der Region erkunden oder die lokale Kultur kennenlernen möchten: Wir helfen Ihnen, Ihren Aufenthalt in vollen Zügen zu genießen."
+        ]
+      }
+    ],
+    "closing": "Gästehaus AFASSI — Ihr Komfort, unsere Gastfreundschaft, Ihre Reise.",
+    "direct": "Direkt buchen zum besten Preis.",
+    "cta": "Buchen",
+    "roomsLink": "Zimmer ansehen",
+    "topAlts": [
+      "Die Terrasse mit Blick auf die Berge",
+      "Eine marokkanische Lounge hinter einem verzierten Bogen",
+      "Frühstück auf der blauen Terrasse"
+    ],
+    "collageAlts": [
+      "Blaue Treppengasse in Chefchaouen",
+      "Blaue Tür mit Nägeln in Chefchaouen",
+      "Weiß-blaue Gasse in Chefchaouen",
+      "Blau-weiße Straße in Chefchaouen",
+      "Blau-weißer Torbogen in Chefchaouen",
+      "Gepflasterte Gasse mit blauen Häusern in Chefchaouen",
+      "Türkisfarbene Tür an einer blauen Fassade in Chefchaouen"
+    ],
+    "bottomAlts": [
+      "Frühstück mit Blick auf Chefchaouen",
+      "Die Lounge im blauen Abendlicht",
+      "Marokkanisches Frühstück auf einem blauen Tisch"
+    ]
+  },
+  "partners": {
+    "title": "Mit uns unterwegs"
+  },
+  "rooms": {
+    "eyebrow": "Übernachten",
+    "title": "Unsere Zimmer",
+    "body": "Zimmer für Alleinreisende, Paare, Familien und Freunde.",
+    "cta": "Preis anfragen",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "photoPrev": "Vorheriges Foto",
+    "photoNext": "Nächstes Foto",
+    "photoAlt": "{room}, Foto {n} von {total}",
+    "amenities": {
+      "airConditioning": "Klimaanlage",
+      "shower": "Eigene Dusche",
+      "tv": "Flachbild-TV",
+      "wifi": "Kostenloses WLAN"
+    },
+    "beds": {
+      "double": "{n} Doppelbett",
+      "doubles": "{n} Doppelbetten",
+      "single": "{n} Einzelbett",
+      "singles": "{n} Einzelbetten",
+      "sofa": "{n} Sofa",
+      "sofas": "{n} Sofas"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Gästebewertungen",
+    "title": "Das sagen unsere Gäste",
+    "platforms": "Bewertungen auf Plattformen",
+    "rated": "Bewertet mit {score} von {scale}",
+    "count": "{n} Bewertungen",
+    "badge": "Beispiel",
+    "empty": "Noch keine Bewertungen auf Deutsch.",
+    "more": "Weiterlesen",
+    "less": "Weniger anzeigen",
+    "via": "Bewertung auf {name}"
+  },
+  "booking": {
+    "eyebrow": "Buchungsanfrage",
+    "title": "Ihr Aufenthalt",
+    "body": "Nennen Sie uns Ihre Reisedaten; wir bestätigen die Verfügbarkeit innerhalb von 24 Stunden.",
+    "room": "Zimmer",
+    "roomHint": "Sie können mehrere Zimmer wählen, von einer oder mehreren Arten.",
+    "typeCountOne": "{n} Zimmer dieser Art",
+    "typeCountMany": "{n} Zimmer dieser Art",
+    "fewer": "Ein Zimmer weniger: {room}",
+    "more": "Ein Zimmer mehr: {room}",
+    "datePlaceholder": "Datum wählen",
+    "dateRequired": "Bitte wählen Sie ein Datum.",
+    "arrival": "Anreise",
+    "arrivalHint": "Check-in ab 14:00 Uhr",
+    "departure": "Abreise",
+    "departureHint": "Check-out bis 11:00 Uhr",
+    "guests": "Gäste",
+    "name": "Vollständiger Name",
+    "namePlaceholder": "Ihr Name",
+    "email": "E-Mail",
+    "emailPlaceholder": "name@beispiel.de",
+    "message": "Nachricht",
+    "messagePlaceholder": "Ankunftszeit, Motorrad zum Abstellen, besondere Wünsche …",
+    "submit": "Anfrage senden",
+    "dialogEyebrow": "Anfrage gesendet",
+    "dialogTitle": "Vielen Dank",
+    "dialogOne": "Wir haben Ihre Anfrage für das {rooms} erhalten. Wir melden uns innerhalb von 24 Stunden bei Ihnen, um Ihren Aufenthalt zu bestätigen.",
+    "dialogMany": "Wir haben Ihre Anfrage für die {rooms} erhalten. Wir melden uns innerhalb von 24 Stunden bei Ihnen, um Ihren Aufenthalt zu bestätigen.",
+    "dialogClose": "Schließen"
+  },
+  "journal": {
+    "eyebrow": "Das Journal",
+    "teaserTitle": "Notizen aus der blauen Stadt",
+    "allPosts": "Das ganze Journal",
+    "readMore": "Artikel lesen",
+    "pageCaps": "Notizen",
+    "pageScript": "aus der blauen Stadt",
+    "pageBody": "Reisetipps, Rezepte, Spaziergänge und Motorradrouten: was wir gern mit unseren Gästen teilen.",
+    "categoriesLabel": "Kategorien",
+    "allCategories": "Alle",
+    "featured": "Im Fokus",
+    "empty": "In dieser Kategorie gibt es noch keine Artikel.",
+    "back": "Das Journal",
+    "readingTime": "{n} Min. Lesezeit",
+    "relatedEyebrow": "Auch lesenswert",
+    "relatedTitle": "Mehr aus dem Journal",
+    "ctaEyebrow": "Ihr Aufenthalt",
+    "ctaTitle": "Erleben Sie Chefchaouen",
+    "ctaButton": "Buchen"
+  },
+  "gallery": {
+    "instagram": "Folgen Sie uns auf Instagram",
+    "alts": [
+      "Die marokkanische Lounge an der Rezeption",
+      "Frühstück auf der Terrasse",
+      "Die Lounge im blauen Abendlicht",
+      "Die blaue Terrasse unter bewölktem Himmel",
+      "Die Terrasse mit Blick auf die Berge",
+      "Die blaue Tür des Gästehauses auf der Terrasse",
+      "Die Bambusterrasse am Abend",
+      "Barhocker auf der Terrasse unter dem Sternenhimmel",
+      "Marokkanisches Frühstück auf einem blauen Tisch",
+      "Eine marokkanische Lounge hinter einem verzierten Bogen",
+      "Frühstück mit Blick auf Chefchaouen",
+      "Die Treppe zur Terrasse bei Nacht",
+      "Die Sitzecke auf der Terrasse am Abend",
+      "Tische und Hocker auf der überdachten Terrasse",
+      "Die Terrasse bei Sonnenuntergang",
+      "Die blaue Terrasse unter den Sternen",
+      "Die Fassade des Gästehauses bei Nacht",
+      "Frühstück auf der blauen Terrasse",
+      "Blaue Gasse und türkisfarbene Tür in Chefchaouen",
+      "Blaue Gasse",
+      "Blick auf Chefchaouen"
+    ]
+  },
+  "footer": {
+    "hoursTitle": "Zeiten",
+    "separator": ": ",
+    "reception": "Rezeption",
+    "receptionHours": "8:00 – 22:00 Uhr",
+    "breakfast": "Frühstück",
+    "breakfastHours": "8:00 – 10:00 Uhr",
+    "checkIn": "Check-in",
+    "checkInHours": "ab 14:00 Uhr",
+    "checkOut": "Check-out",
+    "checkOutHours": "bis 11:00 Uhr",
+    "linksTitle": "Links",
+    "findUsTitle": "So finden Sie uns",
+    "address": "LOT BOUASSEL, Av. Maghreb Arabi, Qu Administratif, Chefchaouen, Marokko"
+  }
+}

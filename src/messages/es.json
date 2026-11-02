@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "homeTitle": "Alojamiento en Chefchaouen con garaje para motos — Afassi",
+    "homeDescription": "Casa de huéspedes en Chefchaouen con garaje para motos cerrado y gratuito, solo para clientes, y 13 habitaciones para reservar directamente.",
+    "aboutTitle": "Sobre nosotros — Casa de huéspedes Afassi",
+    "aboutDescription": "Casa de huéspedes Afassi en Chefchaouen: a 10 minutos a pie de la medina histórica, con un equipo que le aconseja en persona o por mensaje.",
+    "journalTitle": "El diario — Casa de huéspedes Afassi",
+    "journalDescription": "El diario de la Casa de huéspedes Afassi: consejos de viaje, cocina, paseos y rutas en moto por los alrededores de Chefchaouen.",
+    "articleTitleSuffix": "Casa de huéspedes Afassi",
+    "siteName": "Casa de huéspedes Afassi"
+  },
+  "nav": {
+    "label": "Navegación principal",
+    "home": "Inicio",
+    "about": "Sobre nosotros",
+    "rooms": "Habitaciones",
+    "reviews": "Opiniones",
+    "journal": "Diario",
+    "book": "Reservar",
+    "contact": "Contacto",
+    "languageLabel": "Idioma",
+    "logoAlt": "Casa de huéspedes Afassi",
+    "instagramLabel": "Instagram (nueva ventana)",
+    "tripadvisorLabel": "Tripadvisor (nueva ventana)",
+    "backToTop": "Volver arriba"
+  },
+  "announcement": {
+    "text": "Reserve directamente al mejor precio · garaje para motos cerrado y gratuito",
+    "close": "Cerrar"
+  },
+  "hero": {
+    "eyebrow": "Chefchaouen · Marruecos",
+    "caps": "El arte de recibir",
+    "script": "empieza aquí",
+    "cta": "Reservar",
+    "dotsLabel": "Elegir una foto",
+    "dotLabel": "Foto {n}",
+    "slides": [
+      "Un motorista y su moto delante de un muro azul de Chefchaouen",
+      "La entrada de la Casa de huéspedes Afassi, iluminada por la noche",
+      "El salón de recepción con paredes azules y techo tallado",
+      "Chefchaouen de noche, al pie de las montañas del Rif",
+      "Las casas azules de Chefchaouen en la ladera de la montaña"
+    ]
+  },
+  "story": {
+    "eyebrow": "Casa de huéspedes Afassi",
+    "title": "Su estancia en el corazón de Chefchaouen",
+    "body": "Descubra Chefchaouen desde un lugar acogedor y con una ubicación ideal. Disfrute de nuestras 13 habitaciones, de nuestra hospitalidad marroquí y de una ubicación privilegiada para explorar la ciudad azul y las montañas del Rif.",
+    "access": "A solo 5 minutos a pie de la estación de autobuses y de fácil acceso en coche y en furgoneta.",
+    "cta": "Saber más",
+    "photo1Alt": "La terraza azul bajo un cielo nublado",
+    "photo2Alt": "La puerta azul de la casa de huéspedes en la terraza"
+  },
+  "about": {
+    "eyebrow": "Chefchaouen · Marruecos",
+    "caps": "Sobre",
+    "script": "nosotros",
+    "note": "Fotos ilustrativas",
+    "sections": [
+      {
+        "title": "Su casa en el corazón de Chefchaouen",
+        "paragraphs": [
+          "Inaugurada en 2022, la casa de huéspedes AFASSI recibe a los viajeros en un ambiente cálido y acogedor, y les ofrece una estancia cómoda en el corazón de Chefchaouen, la famosa ciudad azul de Marruecos.",
+          "Clasificada en segunda categoría, nuestra casa de huéspedes cuenta con 13 habitaciones pensadas para ofrecer a nuestros visitantes comodidad y tranquilidad.",
+          "Gracias a su ubicación ideal en el centro de la ciudad, la casa de huéspedes AFASSI está a solo 5 minutos a pie de la estación de autobuses y a unos 10 minutos de la antigua medina. También es de fácil acceso en coche y en furgoneta, lo que facilita la llegada de los viajeros, sea cual sea su medio de transporte."
+        ]
+      },
+      {
+        "title": "Hospitalidad, comodidad y un servicio personalizado",
+        "paragraphs": [
+          "En la casa de huéspedes AFASSI creemos que la hospitalidad no se limita a ofrecer una habitación cómoda. Se basa ante todo en la acogida, en la atención dedicada a cada visitante y en el placer de dar a conocer la generosidad de la hospitalidad marroquí.",
+          "Nuestro equipo hace todo lo posible por ofrecerle un servicio de calidad, con servicio de conserjería y atención personalizada durante toda su estancia.",
+          "Tanto si desea recibir consejos sobre los lugares que visitar, organizar sus actividades o conocer las particularidades de la región, nuestro equipo siempre está disponible para acompañarle y hacer su estancia lo más agradable posible.",
+          "Para los viajeros que descubren Marruecos en moto, también ponemos a su disposición un garaje cerrado y gratuito para motos, para que puedan disfrutar de su estancia con total tranquilidad."
+        ]
+      },
+      {
+        "title": "Descubra Chefchaouen y sus alrededores",
+        "paragraphs": [
+          "Chefchaouen no se reduce a sus famosos callejones azules. Rodeada por las magníficas montañas del Rif, la región ofrece una gran variedad de experiencias: descubrimientos culturales, tradiciones locales, paisajes naturales y aventuras al aire libre.",
+          "En la casa de huéspedes AFASSI queremos que descubra lo mejor de nuestro destino. Por eso organizamos excursiones y visitas, tanto en el corazón de la ciudad como en las regiones cercanas.",
+          "Tanto si desea pasear por los callejones de la antigua medina, explorar los paisajes naturales de la región o conocer la cultura local, estamos aquí para ayudarle a disfrutar plenamente de su estancia."
+        ]
+      }
+    ],
+    "closing": "Casa de huéspedes AFASSI — Su comodidad, nuestra hospitalidad, su viaje.",
+    "direct": "Reserve directamente al mejor precio.",
+    "cta": "Reservar",
+    "roomsLink": "Ver las habitaciones",
+    "topAlts": [
+      "La terraza frente a las montañas",
+      "Un salón marroquí tras un arco decorado",
+      "Desayuno en la terraza azul"
+    ],
+    "collageAlts": [
+      "Callejón azul con escaleras en Chefchaouen",
+      "Puerta azul con clavos en Chefchaouen",
+      "Callejón blanco y azul de Chefchaouen",
+      "Calle azul y blanca de Chefchaouen",
+      "Puerta en arco azul y blanca en Chefchaouen",
+      "Callejón empedrado con casas azules en Chefchaouen",
+      "Puerta turquesa en una fachada azul de Chefchaouen"
+    ],
+    "bottomAlts": [
+      "Desayuno con vistas a Chefchaouen",
+      "El salón con luz azul por la noche",
+      "Desayuno marroquí en una mesa azul"
+    ]
+  },
+  "partners": {
+    "title": "Ruedan con nosotros"
+  },
+  "rooms": {
+    "eyebrow": "Alojarse",
+    "title": "Nuestras habitaciones",
+    "body": "Habitaciones para viajar solo, en pareja, en familia o con amigos.",
+    "cta": "Pida su tarifa",
+    "showMore": "Ver más",
+    "showLess": "Ver menos",
+    "photoPrev": "Foto anterior",
+    "photoNext": "Foto siguiente",
+    "photoAlt": "{room}, foto {n} de {total}",
+    "amenities": {
+      "airConditioning": "Aire acondicionado",
+      "shower": "Ducha privada",
+      "tv": "TV de pantalla plana",
+      "wifi": "Wi-Fi gratuito"
+    },
+    "beds": {
+      "double": "{n} cama doble",
+      "doubles": "{n} camas dobles",
+      "single": "{n} cama individual",
+      "singles": "{n} camas individuales",
+      "sofa": "{n} sofá",
+      "sofas": "{n} sofás"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Opiniones de viajeros",
+    "title": "Lo que dicen de nosotros",
+    "platforms": "Valoraciones en las plataformas",
+    "rated": "Valoración: {score} de {scale}",
+    "count": "{n} opiniones",
+    "badge": "Ejemplo",
+    "empty": "Todavía no hay opiniones en español.",
+    "more": "Leer más",
+    "less": "Leer menos",
+    "via": "Opinión en {name}"
+  },
+  "booking": {
+    "eyebrow": "Solicitud de reserva",
+    "title": "Su estancia",
+    "body": "Indique sus fechas y le confirmaremos la disponibilidad en un plazo de 24 horas.",
+    "room": "Habitación",
+    "roomHint": "Puede elegir varias habitaciones, de uno o varios tipos.",
+    "typeCountOne": "{n} habitación de este tipo",
+    "typeCountMany": "{n} habitaciones de este tipo",
+    "fewer": "Una habitación menos: {room}",
+    "more": "Una habitación más: {room}",
+    "datePlaceholder": "Elegir una fecha",
+    "dateRequired": "Elija una fecha.",
+    "arrival": "Llegada",
+    "arrivalHint": "Check-in desde las 14:00",
+    "departure": "Salida",
+    "departureHint": "Check-out antes de las 11:00",
+    "guests": "Viajeros",
+    "name": "Nombre completo",
+    "namePlaceholder": "Su nombre",
+    "email": "Correo electrónico",
+    "emailPlaceholder": "nombre@ejemplo.com",
+    "message": "Mensaje",
+    "messagePlaceholder": "Hora de llegada, si viaja en moto, peticiones especiales…",
+    "submit": "Enviar solicitud",
+    "dialogEyebrow": "Solicitud enviada",
+    "dialogTitle": "Gracias",
+    "dialogOne": "Hemos recibido su solicitud para la habitación {rooms}. Le responderemos en un plazo de 24 horas para confirmar su estancia.",
+    "dialogMany": "Hemos recibido su solicitud para las habitaciones {rooms}. Le responderemos en un plazo de 24 horas para confirmar su estancia.",
+    "dialogClose": "Cerrar"
+  },
+  "journal": {
+    "eyebrow": "El diario",
+    "teaserTitle": "Cuadernos de la ciudad azul",
+    "allPosts": "Todo el diario",
+    "readMore": "Leer el artículo",
+    "pageCaps": "Cuadernos",
+    "pageScript": "de la ciudad azul",
+    "pageBody": "Consejos de viaje, recetas, paseos y rutas en moto: lo que nos gusta compartir con nuestros huéspedes.",
+    "categoriesLabel": "Categorías",
+    "allCategories": "Todas",
+    "featured": "Destacado",
+    "empty": "Todavía no hay artículos en esta categoría.",
+    "back": "El diario",
+    "readingTime": "{n} min de lectura",
+    "relatedEyebrow": "También puede leer",
+    "relatedTitle": "Del mismo diario",
+    "ctaEyebrow": "Su estancia",
+    "ctaTitle": "Venga a vivir Chefchaouen",
+    "ctaButton": "Reservar"
+  },
+  "gallery": {
+    "instagram": "Síganos en Instagram",
+    "alts": [
+      "El salón marroquí de la recepción",
+      "Desayuno servido en la terraza",
+      "El salón con luz azul por la noche",
+      "La terraza azul bajo un cielo nublado",
+      "La terraza frente a las montañas",
+      "La puerta azul de la casa de huéspedes en la terraza",
+      "La terraza cubierta de bambú, por la noche",
+      "Taburetes en la terraza bajo un cielo estrellado",
+      "Desayuno marroquí en una mesa azul",
+      "Un salón marroquí tras un arco decorado",
+      "Desayuno con vistas a Chefchaouen",
+      "La escalera a la terraza, de noche",
+      "La zona de estar de la terraza, por la noche",
+      "Mesas y taburetes bajo la terraza cubierta",
+      "La terraza al atardecer",
+      "La terraza azul bajo las estrellas",
+      "La fachada de la casa de huéspedes, de noche",
+      "Desayuno en la terraza azul",
+      "Callejón azul y puerta turquesa de Chefchaouen",
+      "Callejón azul",
+      "Vista de Chefchaouen"
+    ]
+  },
+  "footer": {
+    "hoursTitle": "Horarios",
+    "separator": ": ",
+    "reception": "Recepción",
+    "receptionHours": "8:00 – 22:00",
+    "breakfast": "Desayuno",
+    "breakfastHours": "8:00 – 10:00",
+    "checkIn": "Check-in",
+    "checkInHours": "desde las 14:00",
+    "checkOut": "Check-out",
+    "checkOutHours": "antes de las 11:00",
+    "linksTitle": "Enlaces",
+    "findUsTitle": "Cómo encontrarnos",
+    "address": "LOT BOUASSEL, Av. Maghreb Arabi, Qu Administratif, Chefchaouen, Marruecos"
+  }
+}

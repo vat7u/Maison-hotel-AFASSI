@@ -1,0 +1,8 @@
+/* The fonts are self-hosted by next/font (src/app/fonts.ts). These lines point the design
+   system's font tokens at them, replacing ds/tokens/fonts.css from the static site. */
+:root {
+  --font-script: var(--nf-script), 'Great Vibes', cursive;
+  --font-display: var(--nf-display), 'Helvetica Neue', sans-serif;
+  --font-label: var(--nf-label), 'IBM Plex Mono', ui-monospace, monospace;
+  --font-body: var(--nf-body), 'Garamond', Georgia, serif;
+}

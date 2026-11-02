@@ -1,0 +1,22 @@
+:root{
+/* Gold — sampled from the AFASSI logo (arch + script) */
+--gold-100:#F6E7C1;--gold-300:#EBC970;--gold-400:#E5AB30;--gold-500:#D9A22B;--gold-600:#B9821A;--gold-700:#8E6210;
+--gold-gradient:linear-gradient(160deg,#F2C75A 0%,#D9A22B 45%,#A8740F 100%); /* @kind color */
+/* Navy & blue — from reference site + logo tagline */
+--navy-950:#141842;--navy-900:#1A1F52;--navy-800:#1F2560;--navy-700:#2A3278;--navy-500:#4A5296;
+--blue-600:#2F5BD3;--blue-500:#3F6BE0;
+--sky-300:#CADCF2;--sky-100:#E6EEF9;
+/* Cream & sand neutrals */
+--cream-50:#FCF8F3;--cream-100:#F8F1EA;--cream-200:#EFE4D6;--sand-300:#DCCBB4;--sand-500:#A8977F;
+--white:#FFFFFF;
+/* Semantic */
+--success-600:#3F7A4F;--success-100:#E1EEE3;--danger-600:#A8382B;--danger-100:#F5E1DD;--warning-600:var(--gold-700);--warning-100:var(--gold-100);--info-600:var(--blue-600);--info-100:var(--sky-100);
+
+/* Aliases */
+--surface-page:var(--cream-100);--surface-raised:var(--cream-50);--surface-card:var(--cream-50);
+--surface-inverse:var(--navy-800);--surface-inverse-deep:var(--navy-900);--surface-accent:var(--sky-300);--surface-footer:var(--cream-50);
+--text-body:var(--navy-900);--text-strong:var(--navy-950);--text-muted:#565B7E;--text-subtle:#7C809C;
+--text-on-inverse:var(--cream-100);--text-on-inverse-muted:#C9CCE0;--text-accent:var(--gold-600);--text-link:var(--navy-800);--text-link-hover:var(--gold-600);
+--border-default:var(--navy-900);--border-subtle:rgba(26,31,82,.18);--border-on-inverse:rgba(248,241,234,.55);--border-gold:var(--gold-500);
+--focus-ring:var(--gold-400);
+}

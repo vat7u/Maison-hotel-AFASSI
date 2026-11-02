@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "homeTitle": "Chefchaouen Guesthouse with Motorcycle Garage — Afassi",
+    "homeDescription": "Guesthouse in Chefchaouen with a closed, free-of-charge motorcycle garage for guests only, and 13 rooms to book direct.",
+    "aboutTitle": "About us — Afassi Guesthouse",
+    "aboutDescription": "Afassi Guesthouse in Chefchaouen: a 10-minute walk from the historic Medina, with a team that gives you tips in person or by message.",
+    "journalTitle": "The journal — Afassi Guesthouse",
+    "journalDescription": "The Afassi Guesthouse journal: travel tips, food, walks and motorcycle routes around Chefchaouen.",
+    "articleTitleSuffix": "Afassi Guesthouse",
+    "siteName": "Afassi Guesthouse"
+  },
+  "nav": {
+    "label": "Main navigation",
+    "home": "Home",
+    "about": "About us",
+    "rooms": "Rooms",
+    "reviews": "Reviews",
+    "journal": "Journal",
+    "book": "Book",
+    "contact": "Contact",
+    "languageLabel": "Language",
+    "logoAlt": "Afassi Guesthouse",
+    "instagramLabel": "Instagram (new window)",
+    "tripadvisorLabel": "Tripadvisor (new window)",
+    "backToTop": "Back to top"
+  },
+  "announcement": {
+    "text": "Book direct for the best rate · closed, free-of-charge motorcycle garage",
+    "close": "Close"
+  },
+  "hero": {
+    "eyebrow": "Chefchaouen · Morocco",
+    "caps": "The art of hospitality",
+    "script": "starts here",
+    "cta": "Book",
+    "dotsLabel": "Choose a photo",
+    "dotLabel": "Photo {n}",
+    "slides": [
+      "A motorcyclist and their motorbike in front of a blue wall in Chefchaouen",
+      "The entrance of Afassi Guesthouse, lit up in the evening",
+      "The reception lounge with blue walls and a carved ceiling",
+      "Chefchaouen at night, below the Rif mountains",
+      "The blue houses of Chefchaouen on the mountainside"
+    ]
+  },
+  "story": {
+    "eyebrow": "Afassi Guesthouse",
+    "title": "Your stay in the heart of Chefchaouen",
+    "body": "Discover Chefchaouen from a welcoming, ideally located place. Enjoy our 13 rooms, our Moroccan hospitality and a prime location for exploring the blue city and the Rif mountains.",
+    "access": "Just a 5-minute walk from the bus station, and easy to reach by car or van.",
+    "cta": "Learn more",
+    "photo1Alt": "The blue terrace under a cloudy sky",
+    "photo2Alt": "The guesthouse's blue door on the terrace"
+  },
+  "about": {
+    "eyebrow": "Chefchaouen · Morocco",
+    "caps": "About",
+    "script": "us",
+    "note": "Illustrative photos",
+    "sections": [
+      {
+        "title": "Your home in the heart of Chefchaouen",
+        "paragraphs": [
+          "Opened in 2022, AFASSI Guesthouse welcomes travellers in a warm and friendly setting, offering a comfortable stay in the heart of Chefchaouen, Morocco's famous blue city.",
+          "Classified in the second category, our guesthouse has 13 rooms designed to give our visitors comfort and peace.",
+          "Thanks to its ideal position in the town centre, AFASSI Guesthouse is only a 5-minute walk from the bus station and about 10 minutes from the old Medina. It is also easy to reach by car or van, which makes arriving simple whatever way you travel."
+        ]
+      },
+      {
+        "title": "Hospitality, comfort and personalised service",
+        "paragraphs": [
+          "At AFASSI Guesthouse, we believe hospitality is more than offering a comfortable room. Above all it rests on the welcome, the attention given to each visitor and the pleasure of sharing the generosity of Moroccan hospitality.",
+          "Our team does everything it can to give you a quality service, with a concierge service and personal assistance throughout your stay.",
+          "Whether you want advice on places to visit, help organising your activities or an introduction to the region's character, our team is always available to look after you and make your stay as pleasant as possible.",
+          "For travellers discovering Morocco by motorcycle, we also provide a closed, free-of-charge garage for motorcycles, so they can enjoy their stay with peace of mind."
+        ]
+      },
+      {
+        "title": "Discover Chefchaouen and its surroundings",
+        "paragraphs": [
+          "Chefchaouen is much more than its famous blue alleys. Surrounded by the magnificent Rif mountains, the region offers a wide range of experiences, from cultural discoveries and local traditions to natural landscapes and outdoor adventure.",
+          "At AFASSI Guesthouse, we want to show you the best of our destination. That is why we organise excursions and visits, both in the heart of the town and in the surrounding regions.",
+          "Whether you want to wander the alleys of the old Medina, explore the region's natural landscapes or discover the local culture, we are here to help you make the most of your stay."
+        ]
+      }
+    ],
+    "closing": "AFASSI Guesthouse — Your comfort, our hospitality, your journey.",
+    "direct": "Book direct for the best rate.",
+    "cta": "Book",
+    "roomsLink": "See the rooms",
+    "topAlts": [
+      "The terrace facing the mountains",
+      "A Moroccan lounge behind a decorated arch",
+      "Breakfast on the blue terrace"
+    ],
+    "collageAlts": [
+      "Blue stepped alley in Chefchaouen",
+      "Blue studded door in Chefchaouen",
+      "White and blue alley in Chefchaouen",
+      "Blue and white street in Chefchaouen",
+      "Blue and white arched doorway in Chefchaouen",
+      "Cobbled alley lined with blue houses in Chefchaouen",
+      "Turquoise door on a blue façade in Chefchaouen"
+    ],
+    "bottomAlts": [
+      "Breakfast with a view of Chefchaouen",
+      "The lounge in blue evening light",
+      "Moroccan breakfast on a blue table"
+    ]
+  },
+  "partners": {
+    "title": "They ride with us"
+  },
+  "rooms": {
+    "eyebrow": "Stay",
+    "title": "Our rooms",
+    "body": "Rooms for travelling solo, as a couple, as a family or with friends.",
+    "cta": "Ask for your rate",
+    "showMore": "Show more",
+    "showLess": "Show less",
+    "photoPrev": "Previous photo",
+    "photoNext": "Next photo",
+    "photoAlt": "{room}, photo {n} of {total}",
+    "amenities": {
+      "airConditioning": "Air conditioning",
+      "shower": "Private shower",
+      "tv": "Flat-screen TV",
+      "wifi": "Free Wi-Fi"
+    },
+    "beds": {
+      "double": "{n} double bed",
+      "doubles": "{n} double beds",
+      "single": "{n} single bed",
+      "singles": "{n} single beds",
+      "sofa": "{n} sofa",
+      "sofas": "{n} sofas"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Guest reviews",
+    "title": "What our guests say",
+    "platforms": "Platform ratings",
+    "rated": "Rated {score} out of {scale}",
+    "count": "{n} reviews",
+    "badge": "Example",
+    "empty": "No reviews in English yet.",
+    "more": "Read more",
+    "less": "Show less",
+    "via": "Review on {name}"
+  },
+  "booking": {
+    "eyebrow": "Booking request",
+    "title": "Your stay",
+    "body": "Tell us your dates and we will confirm availability within 24 hours.",
+    "room": "Room",
+    "roomHint": "You can choose several rooms, of one or more types.",
+    "typeCountOne": "{n} room of this type",
+    "typeCountMany": "{n} rooms of this type",
+    "fewer": "One room fewer: {room}",
+    "more": "One room more: {room}",
+    "datePlaceholder": "Choose a date",
+    "dateRequired": "Choose a date.",
+    "arrival": "Arrival",
+    "arrivalHint": "Check-in from 14:00",
+    "departure": "Departure",
+    "departureHint": "Check-out before 11:00",
+    "guests": "Guests",
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "message": "Message",
+    "messagePlaceholder": "Arrival time, motorcycle to park, special requests…",
+    "submit": "Send request",
+    "dialogEyebrow": "Request sent",
+    "dialogTitle": "Thank you",
+    "dialogOne": "We have received your request for the {rooms} room. We will get back to you within 24 hours to confirm your stay.",
+    "dialogMany": "We have received your request for the {rooms} rooms. We will get back to you within 24 hours to confirm your stay.",
+    "dialogClose": "Close"
+  },
+  "journal": {
+    "eyebrow": "The journal",
+    "teaserTitle": "Notes from the blue city",
+    "allPosts": "See the full journal",
+    "readMore": "Read the article",
+    "pageCaps": "Notes",
+    "pageScript": "from the blue city",
+    "pageBody": "Travel tips, recipes, walks and motorcycle routes: what we love to share with our guests.",
+    "categoriesLabel": "Categories",
+    "allCategories": "All",
+    "featured": "Featured",
+    "empty": "No articles in this category yet.",
+    "back": "The journal",
+    "readingTime": "{n} min read",
+    "relatedEyebrow": "Also worth reading",
+    "relatedTitle": "More from the journal",
+    "ctaEyebrow": "Your stay",
+    "ctaTitle": "Come and experience Chefchaouen",
+    "ctaButton": "Book"
+  },
+  "gallery": {
+    "instagram": "Follow us on Instagram",
+    "alts": [
+      "The Moroccan lounge at reception",
+      "Breakfast served on the terrace",
+      "The lounge in blue evening light",
+      "The blue terrace under a cloudy sky",
+      "The terrace facing the mountains",
+      "The guesthouse's blue door on the terrace",
+      "The bamboo-roofed terrace in the evening",
+      "Bar stools on the terrace under a starry sky",
+      "Moroccan breakfast on a blue table",
+      "A Moroccan lounge behind a decorated arch",
+      "Breakfast with a view of Chefchaouen",
+      "The stairs to the terrace at night",
+      "The terrace seating area in the evening",
+      "Tables and stools under the covered terrace",
+      "The terrace at sunset",
+      "The blue terrace under the stars",
+      "The guesthouse at night",
+      "Breakfast on the blue terrace",
+      "Blue alley and turquoise door in Chefchaouen",
+      "Blue alley",
+      "View over Chefchaouen"
+    ]
+  },
+  "footer": {
+    "hoursTitle": "Hours",
+    "separator": ": ",
+    "reception": "Reception",
+    "receptionHours": "8:00 – 22:00",
+    "breakfast": "Breakfast",
+    "breakfastHours": "8:00 – 10:00",
+    "checkIn": "Check-in",
+    "checkInHours": "from 14:00",
+    "checkOut": "Check-out",
+    "checkOutHours": "before 11:00",
+    "linksTitle": "Links",
+    "findUsTitle": "Find us",
+    "address": "LOT BOUASSEL, Av. Maghreb Arabi, Qu Administratif, Chefchaouen, Morocco"
+  }
+}

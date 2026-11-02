@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "homeTitle": "Maison d'hôtes Afassi — Chefchaouen, Maroc",
+    "homeDescription": "Maison d'hôtes à Chefchaouen avec garage moto fermé et gratuit, réservé aux clients, et 13 chambres à réserver en direct.",
+    "aboutTitle": "À propos — Maison d'hôtes Afassi",
+    "aboutDescription": "Maison d'hôtes Afassi à Chefchaouen : à 10 minutes à pied de la médina historique, avec une équipe qui vous conseille sur place ou par message.",
+    "journalTitle": "Le journal — Maison d'hôtes Afassi",
+    "journalDescription": "Le journal de la Maison d'hôtes Afassi : conseils de voyage, cuisine, balades et routes à moto autour de Chefchaouen.",
+    "articleTitleSuffix": "Maison d'hôtes Afassi",
+    "siteName": "Maison d'hôtes Afassi"
+  },
+  "nav": {
+    "label": "Navigation principale",
+    "home": "Accueil",
+    "about": "À propos",
+    "rooms": "Chambres",
+    "reviews": "Avis",
+    "journal": "Journal",
+    "book": "Réserver",
+    "contact": "Contact",
+    "languageLabel": "Langue",
+    "logoAlt": "Maison d'hôtes Afassi",
+    "instagramLabel": "Instagram (nouvelle fenêtre)",
+    "tripadvisorLabel": "Tripadvisor (nouvelle fenêtre)",
+    "backToTop": "Retour en haut de page"
+  },
+  "announcement": {
+    "text": "Réservez en direct pour le meilleur tarif · garage moto fermé et gratuit",
+    "close": "Fermer"
+  },
+  "hero": {
+    "eyebrow": "Chefchaouen · Maroc",
+    "caps": "L'art de recevoir",
+    "script": "commence ici",
+    "cta": "Réserver",
+    "dotsLabel": "Choisir une photo",
+    "dotLabel": "Photo {n}",
+    "slides": [
+      "Un motard et sa moto devant un mur bleu de Chefchaouen",
+      "L'entrée de la Maison d'hôtes Afassi, éclairée le soir",
+      "Le salon de réception aux murs bleus et au plafond sculpté",
+      "Chefchaouen la nuit, au pied des montagnes du Rif",
+      "Les maisons bleues de Chefchaouen à flanc de montagne"
+    ]
+  },
+  "story": {
+    "eyebrow": "Maison d'hôtes Afassi",
+    "title": "Votre séjour au cœur de Chefchaouen",
+    "body": "Découvrez Chefchaouen depuis un lieu accueillant et idéalement situé. Profitez de nos 13 chambres, de notre hospitalité marocaine et d'un emplacement privilégié pour explorer la ville bleue et les montagnes du Rif.",
+    "access": "À seulement 5 minutes à pied de la gare routière et facilement accessible en voiture et en van.",
+    "cta": "En savoir plus",
+    "photo1Alt": "La terrasse bleue sous un ciel nuageux",
+    "photo2Alt": "La porte bleue de la maison d'hôtes sur la terrasse"
+  },
+  "about": {
+    "eyebrow": "Chefchaouen · Maroc",
+    "caps": "À propos",
+    "script": "de nous",
+    "note": "Photos d'illustration",
+    "sections": [
+      {
+        "title": "Votre maison au cœur de Chefchaouen",
+        "paragraphs": [
+          "Ouverte en 2022, la maison d'hôtes AFASSI accueille les voyageurs dans un cadre chaleureux et convivial, leur offrant un séjour confortable au cœur de Chefchaouen, la célèbre ville bleue du Maroc.",
+          "Classée en deuxième catégorie, notre maison d'hôtes dispose de 13 chambres pensées pour offrir à nos visiteurs confort et tranquillité.",
+          "Grâce à son emplacement idéal en centre-ville, la maison d'hôtes AFASSI se trouve à seulement 5 minutes à pied de la gare routière et à environ 10 minutes de l'ancienne médina. Elle est également facilement accessible en voiture et en van, ce qui facilite l'arrivée des voyageurs, quel que soit leur moyen de transport."
+        ]
+      },
+      {
+        "title": "L'hospitalité, le confort et un service personnalisé",
+        "paragraphs": [
+          "À la maison d'hôtes AFASSI, nous croyons que l'hospitalité ne se limite pas à offrir une chambre confortable. Elle repose avant tout sur l'accueil, l'attention portée à chaque visiteur et le plaisir de faire découvrir la générosité de l'hospitalité marocaine.",
+          "Notre équipe met tout en œuvre pour vous offrir des prestations de qualité, avec un service de conciergerie et un accompagnement personnalisé tout au long de votre séjour.",
+          "Que vous souhaitiez obtenir des conseils sur les lieux à visiter, organiser vos activités ou découvrir les particularités de la région, notre équipe est toujours disponible pour vous accompagner et rendre votre séjour aussi agréable que possible.",
+          "Pour les voyageurs qui découvrent le Maroc à moto, nous mettons également à disposition un garage fermé et gratuit pour les motos, afin qu'ils puissent profiter de leur séjour en toute tranquillité."
+        ]
+      },
+      {
+        "title": "Découvrez Chefchaouen et ses environs",
+        "paragraphs": [
+          "Chefchaouen ne se résume pas à ses célèbres ruelles bleues. Entourée par les magnifiques montagnes du Rif, la région offre une grande diversité d'expériences, entre découvertes culturelles, traditions locales, paysages naturels et aventures en plein air.",
+          "À la maison d'hôtes AFASSI, nous souhaitons vous faire découvrir le meilleur de notre destination. C'est pourquoi nous proposons l'organisation d'excursions et de visites, aussi bien au cœur de la ville que dans les régions environnantes.",
+          "Que vous souhaitiez flâner dans les ruelles de l'ancienne médina, explorer les paysages naturels de la région ou découvrir la culture locale, nous sommes là pour vous aider à profiter pleinement de votre séjour."
+        ]
+      }
+    ],
+    "closing": "Maison d'hôtes AFASSI — Votre confort, notre hospitalité, votre voyage.",
+    "direct": "Réservez en direct pour le meilleur tarif.",
+    "cta": "Réserver",
+    "roomsLink": "Voir les chambres",
+    "topAlts": [
+      "La terrasse face aux montagnes",
+      "Un salon marocain derrière une arche décorée",
+      "Petit-déjeuner sur la terrasse bleue"
+    ],
+    "collageAlts": [
+      "Ruelle bleue en escalier à Chefchaouen",
+      "Porte bleue cloutée à Chefchaouen",
+      "Ruelle blanche et bleue de Chefchaouen",
+      "Rue bleue et blanche de Chefchaouen",
+      "Porte en arc bleu et blanc à Chefchaouen",
+      "Ruelle pavée bordée de maisons bleues à Chefchaouen",
+      "Porte turquoise sur une façade bleue de Chefchaouen"
+    ],
+    "bottomAlts": [
+      "Petit-déjeuner avec vue sur Chefchaouen",
+      "Le salon éclairé de bleu le soir",
+      "Petit-déjeuner marocain sur une table bleue"
+    ]
+  },
+  "partners": {
+    "title": "Ils roulent avec nous"
+  },
+  "rooms": {
+    "eyebrow": "Séjourner",
+    "title": "Nos chambres",
+    "body": "Des chambres pour voyager seul, à deux, en famille ou entre amis.",
+    "cta": "Demandez votre tarif",
+    "showMore": "Voir plus",
+    "showLess": "Voir moins",
+    "photoPrev": "Photo précédente",
+    "photoNext": "Photo suivante",
+    "photoAlt": "{room}, photo {n} sur {total}",
+    "amenities": {
+      "airConditioning": "Climatisation",
+      "shower": "Douche privée",
+      "tv": "TV écran plat",
+      "wifi": "Wi-Fi gratuit"
+    },
+    "beds": {
+      "double": "{n} lit double",
+      "doubles": "{n} lits doubles",
+      "single": "{n} lit simple",
+      "singles": "{n} lits simples",
+      "sofa": "{n} canapé",
+      "sofas": "{n} canapés"
+    }
+  },
+  "reviews": {
+    "eyebrow": "Avis des voyageurs",
+    "title": "Ce qu'ils en disent",
+    "platforms": "Notes sur les plateformes",
+    "rated": "Note : {score} sur {scale}",
+    "count": "{n} avis",
+    "badge": "Exemple",
+    "empty": "Aucun avis en français pour le moment.",
+    "more": "Lire la suite",
+    "less": "Réduire",
+    "via": "Avis {name}"
+  },
+  "booking": {
+    "eyebrow": "Demande de réservation",
+    "title": "Votre séjour",
+    "body": "Indiquez vos dates ; nous confirmons la disponibilité sous 24 h.",
+    "room": "Chambre",
+    "roomHint": "Vous pouvez choisir plusieurs chambres, de un ou plusieurs types.",
+    "typeCountOne": "{n} chambre de ce type",
+    "typeCountMany": "{n} chambres de ce type",
+    "fewer": "Une chambre de moins : {room}",
+    "more": "Une chambre de plus : {room}",
+    "datePlaceholder": "Choisir une date",
+    "dateRequired": "Choisissez une date.",
+    "arrival": "Arrivée",
+    "arrivalHint": "Check-in dès 14h",
+    "departure": "Départ",
+    "departureHint": "Check-out avant 11h",
+    "guests": "Voyageurs",
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "email": "E-mail",
+    "emailPlaceholder": "vous@exemple.com",
+    "message": "Message",
+    "messagePlaceholder": "Heure d'arrivée, moto à garer, demandes particulières…",
+    "submit": "Envoyer la demande",
+    "dialogEyebrow": "Demande envoyée",
+    "dialogTitle": "Merci",
+    "dialogOne": "Nous avons bien reçu votre demande pour la chambre {rooms}. Nous revenons vers vous sous 24 h pour confirmer votre séjour.",
+    "dialogMany": "Nous avons bien reçu votre demande pour les chambres {rooms}. Nous revenons vers vous sous 24 h pour confirmer votre séjour.",
+    "dialogClose": "Fermer"
+  },
+  "journal": {
+    "eyebrow": "Le journal",
+    "teaserTitle": "Carnets de la ville bleue",
+    "allPosts": "Tout le journal",
+    "readMore": "Lire l'article",
+    "pageCaps": "Carnets",
+    "pageScript": "de la ville bleue",
+    "pageBody": "Conseils de voyage, recettes, balades et routes à moto : ce que nous aimons partager avec nos hôtes.",
+    "categoriesLabel": "Catégories",
+    "allCategories": "Toutes",
+    "featured": "À la une",
+    "empty": "Aucun article dans cette catégorie pour le moment.",
+    "back": "Le journal",
+    "readingTime": "{n} min de lecture",
+    "relatedEyebrow": "À lire aussi",
+    "relatedTitle": "Du même journal",
+    "ctaEyebrow": "Votre séjour",
+    "ctaTitle": "Venez vivre Chefchaouen",
+    "ctaButton": "Réserver"
+  },
+  "gallery": {
+    "instagram": "Suivez-nous sur Instagram",
+    "alts": [
+      "Le salon marocain de la réception",
+      "Petit-déjeuner servi sur la terrasse",
+      "Le salon éclairé de bleu le soir",
+      "La terrasse bleue sous un ciel nuageux",
+      "La terrasse face aux montagnes",
+      "La porte bleue de la maison d'hôtes sur la terrasse",
+      "La terrasse couverte de bambou, le soir",
+      "Tabourets sur la terrasse sous un ciel étoilé",
+      "Petit-déjeuner marocain sur une table bleue",
+      "Un salon marocain derrière une arche décorée",
+      "Petit-déjeuner avec vue sur Chefchaouen",
+      "L'escalier vers la terrasse, la nuit",
+      "Le coin salon de la terrasse, le soir",
+      "Tables et tabourets sous la terrasse couverte",
+      "La terrasse au coucher du soleil",
+      "La terrasse bleue sous les étoiles",
+      "La façade de la maison d'hôtes, la nuit",
+      "Petit-déjeuner sur la terrasse bleue",
+      "Ruelle bleue et porte turquoise de Chefchaouen",
+      "Ruelle bleue",
+      "Vue sur Chefchaouen"
+    ]
+  },
+  "footer": {
+    "hoursTitle": "Horaires",
+    "separator": " : ",
+    "reception": "Réception",
+    "receptionHours": "8h – 22h",
+    "breakfast": "Petit-déjeuner",
+    "breakfastHours": "8h – 10h",
+    "checkIn": "Check-in",
+    "checkInHours": "dès 14h",
+    "checkOut": "Check-out",
+    "checkOutHours": "avant 11h",
+    "linksTitle": "Liens",
+    "findUsTitle": "Nous trouver",
+    "address": "LOT BOUASSEL, Av. Maghreb Arabi, Qu Administratif, Chefchaouen, Maroc"
+  }
+}
